@@ -23,13 +23,13 @@
 #### Linux Manually
 
 1. Download your desired palette file(s)
-2. Copy the file(s) to `~/.local/share/krita/palettes`
+2. Copy the file(s) inside `~/.local/share/krita/palettes`
 3. If Krita is open, restart Krita
 
 #### Windows Manually
 
 1. Download your desired palette file(s)
-2. Copy the files(s) to `C:\Users\USERNAME\AppData\Roaming\krita\palettes`
+2. Copy the files(s) inside `C:\Users\USERNAME\AppData\Roaming\krita\palettes`
 3. If Krita is open. restart Krita
 
 ## TODO
