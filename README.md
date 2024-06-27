@@ -24,10 +24,15 @@
 2. Copy the file(s) to `~/.local/share/krita/palettes`
 3. If Krita is open, restart Krita
 
+#### Windows Manually
+
+1. Download your desired palette file(s)
+2. Copy the files(s) to `C:\Users\USERNAME\AppData\Roaming\krita\palettes`
+3. If Krita is open. restart Krita
+
 ## TODO
 
 - [ ] Add installation instructions
-  - [ ] Windows manually
   - [ ] Mac manually
 - [ ] Ayu
 - [ ] Dracula
