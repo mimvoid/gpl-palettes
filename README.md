@@ -23,19 +23,25 @@
 #### Linux Manually
 
 1. Download your desired palette file(s)
-2. Copy the file(s) inside `~/.local/share/krita/palettes`
+2. Move the file(s) into `~/.local/share/krita/palettes`
+3. If Krita is open, restart Krita
+
+#### Mac Manually
+
+1. Download your desired palette file(s)
+2. Move the file(s) into `~/Library/Application Support/krita/palettes`
 3. If Krita is open, restart Krita
 
 #### Windows Manually
 
 1. Download your desired palette file(s)
-2. Copy the files(s) inside `C:\Users\USERNAME\AppData\Roaming\krita\palettes`
+2. Move the files(s) into `C:\Users\USERNAME\AppData\Roaming\krita\palettes`
 3. If Krita is open. restart Krita
 
 ## TODO
 
 - [ ] Add installation instructions
-  - [ ] Mac manually
+  - [ ] GIMP
 - [ ] Ayu
 - [ ] Dracula
 - [ ] Gruvbox
