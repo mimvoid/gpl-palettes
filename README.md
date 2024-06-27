@@ -4,7 +4,7 @@
 ## Included Palettes
 
 - [Catppuccin](https://catppuccin.com/)
-- [Rose Pine](https://rosepinetheme.com/)
+- [Rosé Pine](https://rosepinetheme.com/)
 
 ## Installation
 
