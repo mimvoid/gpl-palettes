@@ -1,0 +1,30 @@
+GIMP Palette
+Name: Catppuccin Latte
+Columns: 14
+
+220 138 120   Rosewater
+221 120 120   Flamingo
+234 118 203   Pink
+136 57  239   Mauve
+210 15  57    Red
+230 69  83    Maroon
+254 100 11    Peach
+223 142 29    Yellow
+64  160 43    Green
+23  146 153   Teal
+4   163 229   Sky
+32  159 181   Sapphire
+30  102 245   Blue
+114 135 253   Lavender
+76  79  105   Text
+93  95  119   Subtext 1
+108 111 133   Subtext 0
+124 127 147   Overlay 2
+140 143 161   Overlay 1
+156 160 176   Overlay 0
+172 176 190   Surface 2
+188 193 204   Surface 1
+204 208 218   Surface 0
+239 241 245   Base
+230 233 239   Mantle
+220 224 232   Crust
