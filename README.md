@@ -1,4 +1,4 @@
-<h1 align="center">GPL Palettes</h1>
+<h1 align="center">GPL Color Palettes</h1>
 <p align="center">A collection of .gpl palettes usable for Krita, GIMP, Inkscape, Aseprite, Drawpile, and MyPaint.</p>
 
 ## Included Palettes
