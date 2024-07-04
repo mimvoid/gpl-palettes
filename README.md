@@ -37,7 +37,7 @@
 
 1. Download your desired palette file(s)
 2. Move the files(s) into `C:\Users\USERNAME\AppData\Roaming\krita\palettes`
-3. If Krita is open. restart Krita
+3. If Krita is open, restart Krita
 
 ## TODO
 
