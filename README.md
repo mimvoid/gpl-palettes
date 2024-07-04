@@ -5,6 +5,7 @@
 
 ## Included Palettes
 
+- [Ayu](https://github.com/dempfi/ayu)
 - [Catppuccin](https://catppuccin.com/)
 - [Dracula](https://draculatheme.com/)
 - [Gruvbox](https://github.com/morhetz/gruvbox)
@@ -46,5 +47,4 @@
 
 - [ ] Add installation instructions
   - [ ] GIMP
-- [ ] Ayu
 - [ ] Nord
