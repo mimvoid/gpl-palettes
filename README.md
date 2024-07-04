@@ -6,6 +6,7 @@
 ## Included Palettes
 
 - [Catppuccin](https://catppuccin.com/)
+- [Kanagawa](https://github.com/rebelot/kanagawa.nvim)
 - [Rosé Pine](https://rosepinetheme.com/)
 - [Tokyo](https://github.com/enkia/tokyo-night-vscode-theme) [Night](https://github.com/folke/tokyonight.nvim)
 
@@ -46,5 +47,4 @@
 - [ ] Ayu
 - [ ] Dracula
 - [ ] Gruvbox
-- [ ] Kanagawa
 - [ ] Nord
