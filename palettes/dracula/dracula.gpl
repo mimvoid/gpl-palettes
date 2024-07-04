@@ -1,0 +1,15 @@
+GIMP Palette
+Name: Dracula
+Columns: 4
+
+40  42  54    Background
+68  71  90    Selection
+248 248 242   Foreground
+98  114 164   Comment
+255 85  85    Red
+255 184 108   Orange
+241 250 140   Yellow
+80  250 123   Green
+139 233 253   Cyan
+189 147 249   Purple
+255 121 198   Pink
