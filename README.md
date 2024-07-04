@@ -7,6 +7,7 @@
 
 - [Catppuccin](https://catppuccin.com/)
 - [Rosé Pine](https://rosepinetheme.com/)
+- [Tokyo](https://github.com/enkia/tokyo-night-vscode-theme) [Night](https://github.com/folke/tokyonight.nvim)
 
 ## Installation
 
@@ -47,4 +48,3 @@
 - [ ] Gruvbox
 - [ ] Kanagawa
 - [ ] Nord
-- [ ] Tokyo Night
