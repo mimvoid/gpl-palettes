@@ -7,6 +7,7 @@
 
 - [Catppuccin](https://catppuccin.com/)
 - [Dracula](https://draculatheme.com/)
+- [Gruvbox](https://github.com/morhetz/gruvbox)
 - [Kanagawa](https://github.com/rebelot/kanagawa.nvim)
 - [Rosé Pine](https://rosepinetheme.com/)
 - [Tokyo](https://github.com/enkia/tokyo-night-vscode-theme) [Night](https://github.com/folke/tokyonight.nvim)
@@ -46,5 +47,4 @@
 - [ ] Add installation instructions
   - [ ] GIMP
 - [ ] Ayu
-- [ ] Gruvbox
 - [ ] Nord

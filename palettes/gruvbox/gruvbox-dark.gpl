@@ -1,0 +1,38 @@
+GIMP Palette
+Name: Gruvbox Dark
+Columns: 8
+
+40  40  40    Background
+204 36  29    Neutral Red
+152 151 26    Neutral Green
+215 153 33    Neutral Yellow
+69  133 136   Neutral Blue
+177 98 134    Neutral Purple
+104 157 106   Neutral Aqua
+168 153 132   Gray
+
+146 131 116   Gray 2
+251 73  52    Bright Red
+184 187 38    Bright Green
+250 189 47    Bright Yellow
+131 165 152   Bright Blue
+211 134 155   Bright Purple
+142 192 124   Bright Aqua
+235 219 178   Foreground
+
+29  32  33    Background 0 Hard
+40  40  40    Background 0
+60  56  54    Background 1
+80  73  69    Background 2
+102 92  84    Background 3
+124 111 100   Background 4
+146 131 116   Gray 3
+214 93  14    Neutral Orange
+
+50  48  47    Background 0 Soft
+168 153 132   Foreground 4
+189 174 147   Foreground 3
+213 196 161   Foreground 2
+235 219 178   Foreground 1
+251 241 199   Foreground 0
+254 128 25    Bright Orange
